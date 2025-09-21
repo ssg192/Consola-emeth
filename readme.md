@@ -2,7 +2,7 @@
 ## Este manual es para los procedimientos que se usan en Emeth
 1. [Cancelar salida de stream](#cancelar-salida-de-stream)
 2. [Probar salidas con ruido rosa](#probar-salidas-con-ruido-rosa)
-3.[Deslinkear un canal](#deslinkear-un-canal)
+3. [Deslinkear un canal](#deslinkear-un-canal)
 
 # Cancelar salida de stream
 ## Primer paso:
