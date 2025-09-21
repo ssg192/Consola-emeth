@@ -45,6 +45,9 @@
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/1e8fb103-0b30-4ae9-8002-d98902049b45" />
 
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/294faf2b-d2f9-4b0d-9e7f-447c3ad764f8" />
+
+
 ## Segundo paso: visualizar que canal esta disponible en el snake para vincularlo a la consola seleccionar en la ventana source
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f8de9787-de88-4691-8b0d-122531d63d75" />
