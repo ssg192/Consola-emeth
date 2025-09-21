@@ -3,6 +3,7 @@
 1. [Cancelar salida de stream](#cancelar-salida-de-stream)
 2. [Probar salidas con ruido rosa](#probar-salidas-con-ruido-rosa)
 3. [Deslinkear un canal](#deslinkear-un-canal)
+4. [Rutear un canal](#rutear-un-canal)
 
 # Cancelar salida de stream
 ## Primer paso:
@@ -37,6 +38,23 @@
 ## Segundo paso: ir a la pestaña Home y presionar link automaticamente se linkea el canal de la derecha
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/c56c4992-d664-49ce-9bd4-c46b2cc1b44f" />
+
+# Rutear un canal
+
+## Primer paso: seleccionar un canal disponible en la consola e irse a la pestaña Config presionando el boton Home 
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/1e8fb103-0b30-4ae9-8002-d98902049b45" />
+
+## Segundo paso: visualizar que canal esta disponible en el snake para vincularlo a la consola seleccionar en la ventana source
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f8de9787-de88-4691-8b0d-122531d63d75" />
+
+## Las locales son IN y las remotas son A, las del snake son las A
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/82ee9a7d-f4d5-4e3a-8bb3-269ed0dc24c1" />
+
+
+
 
 
 
